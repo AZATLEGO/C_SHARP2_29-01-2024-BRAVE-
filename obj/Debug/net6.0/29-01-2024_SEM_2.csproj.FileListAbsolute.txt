@@ -1,0 +1,15 @@
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\bin\Debug\net6.0\29-01-2024_SEM_2.exe
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\bin\Debug\net6.0\29-01-2024_SEM_2.deps.json
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\bin\Debug\net6.0\29-01-2024_SEM_2.runtimeconfig.json
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\bin\Debug\net6.0\29-01-2024_SEM_2.dll
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\bin\Debug\net6.0\29-01-2024_SEM_2.pdb
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.csproj.AssemblyReference.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.AssemblyInfoInputs.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.AssemblyInfo.cs
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.csproj.CoreCompileInputs.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.dll
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\refint\29-01-2024_SEM_2.dll
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.pdb
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\29-01-2024_SEM_2.genruntimeconfig.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2024_SEM_2\obj\Debug\net6.0\ref\29-01-2024_SEM_2.dll
