@@ -35,14 +35,27 @@
 // 7812 => 8
 // 91 => Третьей цифры нет
 
-int number = 12345678;
-if (number >= 100) // Число минимум трехзначное
-// От 100 до + бесконечности  
+// int number = 12345678;
+// if (number >= 100) // Число минимум трехзначное
+// // От 100 до + бесконечности  
+// {
+//     int thirdDigitFromEnd = (number / 100) % 10;
+//     Console.WriteLine($"Третья цифра от {number} с конца: {thirdDigitFromEnd}");
+// }
+// else // В числе нет 3 цифры
+// {
+//     Console.WriteLine("Третьей цифры нет");
+//  }
+
+int a = 5;
+
+int b = 2;
+
+if (a % b == 0)
 {
-    int thirdDigitFromEnd = (number / 100) % 10;
-    Console.WriteLine($"Третья цифра от {number} с конца: {thirdDigitFromEnd}");
+    Console.WriteLine($"{a}кратко (делиться безостатков) числу {b}");
 }
-else // В числе нет 3 цифры
+else
 {
-    Console.WriteLine("Третьей цифры нет");
- }
+    Console.WriteLine($"Остаток от {a} / {b} = % b" );
+}
